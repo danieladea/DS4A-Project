@@ -1,55 +1,52 @@
-﻿Source: ACS 1-Year Estimates - Public Use Microdata Sample 2005
-Weight used: WGTP
-"Universe: selected geographies: Alabama, Alaska, Arizona, Arkansas, California, Connecticut, Colorado, Delaware, District of Columbia, Georgia, Florida, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Louisiana, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nevada, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Dakota, North Carolina, Ohio, Oklahoma, Pennsylvania, Oregon, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Vermont, Utah, Virginia, West Virginia, Washington, Wisconsin, Wyoming"
-"Selected Geographies","PUMS Monthly mortgage payment"
-"Alabama","267.3391663448112"
-"Alaska","458.8508614021009"
-"Arizona","420.6199523005217"
-"Arkansas","226.42743068540523"
-"California","642.3791079909784"
-"Colorado","552.6663813262272"
-"Connecticut","654.1098603180811"
-"Delaware","414.40669969961164"
-"District of Columbia","421.23490825025283"
-"Florida","396.8712981794792"
-"Georgia","414.2821412480333"
-"Hawaii","523.7216651140702"
-"Idaho","369.825208734209"
-"Illinois","489.0426311684442"
-"Indiana","350.32425635610906"
-"Iowa","304.3595527986836"
-"Kansas","342.46917557231563"
-"Kentucky","283.1820172282917"
-"Louisiana","253.89387494847685"
-"Maine","284.8245746409373"
-"Maryland","636.5086425782752"
-"Massachusetts","580.882942300216"
-"Michigan","407.41239171620595"
-"Minnesota","518.6016242328587"
-"Mississippi","232.36367604761665"
-"Missouri","336.9607318871063"
-"Montana","275.51190191191034"
-"Nebraska","327.16709082543287"
-"Nevada","514.3074547643977"
-"New Hampshire","490.27853333219184"
-"New Jersey","662.8223082650176"
-"New Mexico","305.13496163990163"
-"New York","429.3132823789898"
-"North Carolina","337.39721400942204"
-"North Dakota","235.20022566149473"
-"Ohio","364.6549617446049"
-"Oklahoma","251.3194736279448"
-"Oregon","417.3573141363478"
-"Pennsylvania","357.23425035104765"
-"Rhode Island","475.9703831702465"
-"South Carolina","305.8840372671451"
-"South Dakota","262.01066110831107"
-"Tennessee","319.8344448633808"
-"Texas","336.35174713646825"
-"Utah","471.50101879000664"
-"Vermont","317.84163865247996"
-"Virginia","561.4465075645693"
-"Washington","509.5437223291318"
-"West Virginia","195.4110910421144"
-"Wisconsin","375.97288209697905"
-"Wyoming","290.10926520545394"
+﻿Selected Geographies,Gross rent (monthly amount),PUMS Monthly mortgage payment
+Alabama,9535.132175,267.3391663
+Alaska,128.1630451,458.8508614
+Arizona,248.9528777,420.6199523
+Arkansas,202.2612194,226.4274307
+California,138.8851414,642.379108
+Colorado,397.2812529,552.6663813
+Connecticut,223.1762011,654.1098603
+Delaware,240.0219747,414.4066997
+District of Columbia,182.0142704,421.2349083
+Florida,467.3117396,396.8712982
+Georgia,213.9013288,414.2821412
+Hawaii,202.8099045,523.7216651
+Idaho,354.5781768,369.8252087
+Illinois,151.8158337,489.0426312
+Indiana,204.7794014,350.3242564
+Iowa,152.7049646,304.3595528
+Kansas,137.197788,342.4691756
+Kentucky,161.3862831,283.1820172
+Louisiana,128.7761708,253.8938749
+Maine,147.647805,284.8245746
+Maryland,134.1602365,636.5086426
+Massachusetts,256.010892,580.8829423
+Michigan,299.2590502,407.4123917
+Minnesota,146.4706142,518.6016242
+Mississippi,154.3720349,232.363676
+Missouri,130.4280124,336.9607319
+Montana,151.4274689,275.5119019
+Nebraska,143.6705252,327.1670908
+Nevada,160.9152549,514.3074548
+New Hampshire,304.3115437,490.2785333
+New Jersey,191.7852272,662.8223083
+New Mexico,283.4645309,305.1349616
+New York,154.6873459,429.3132824
+North Carolina,366.3057967,337.397214
+North Dakota,167.9477641,235.2002257
+Ohio,128.3513797,364.6549617
+Oklahoma,165.3339857,251.3194736
+Oregon,150.2086695,417.3573141
+Pennsylvania,234.6116031,357.2342504
+Rhode Island,166.9348691,475.9703832
+South Carolina,253.7873665,305.8840373
+South Dakota,146.8064053,262.0106611
+Tennessee,127.4293659,319.8344449
+Texas,155.3260619,336.3517471
+Utah,211.3368108,471.5010188
+Vermont,185.6178851,317.8416387
+Virginia,158.4131055,561.4465076
+Washington,231.0102928,509.5437223
+West Virginia,91.08269697,195.411091
+Wisconsin,,375.9728821
+Wyoming,,290.1092652
